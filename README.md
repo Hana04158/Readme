@@ -1,4 +1,4 @@
-### IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
+# IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
 
 ## The Idea
 
