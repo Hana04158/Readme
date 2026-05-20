@@ -1,5 +1,16 @@
-# 🏠 IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
+<h1 align="center">
+🏠 IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
+</h1>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-IoT-blue"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile_App-02569B"/>
+<img src="https://img.shields.io/badge/Firebase-Database-orange"/>
+<img src="https://img.shields.io/badge/MQTT-HiveMQ-purple"/>
+<img src="https://img.shields.io/badge/Solar-Powered-green"/>
+
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdc88c2e-5277-47d5-9b25-f4214de6eb51" width="300"/>
