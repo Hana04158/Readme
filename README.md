@@ -1,11 +1,5 @@
 # 🏠 IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
-[![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)](https://www.espressif.com/en/products/socs/esp32)
-[![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-02569B)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-Database-orange)](https://firebase.google.com)
-[![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-purple)](https://www.hivemq.com/mqtt/)
-[![Solar](https://img.shields.io/badge/Solar-Powered-green)](YOUR_GITHUB_PAGES_LINK)
-[![LinkedIn](https://img.shields.io/badge/Team-LinkedIn-0A66C2)](YOUR_LINKEDIN_LINK)
-[![Documentation](https://img.shields.io/badge/Project-Documentation-red)](YOUR_README_LINK)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cdc88c2e-5277-47d5-9b25-f4214de6eb51" width="300"/>
