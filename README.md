@@ -19,6 +19,15 @@
 Smart Automation • Renewable Energy • Real-Time Monitoring
 </p>
 
+<p align="center">
+
+<a href="#-the-idea">The Idea</a> •
+<a href="#-system-architecture">Architecture</a> •
+<a href="#-mobile-application">Mobile App</a> •
+<a href="#-results">Results</a>
+
+</p>
+
 ## 💡 The Idea
 
 Modern homes consume large amounts of energy every day, often without efficient monitoring or intelligent control. Many appliances continue operating unnecessarily, renewable energy systems are not fully optimized, and traditional smart home solutions frequently rely on fragmented architectures with limited automation capabilities.
