@@ -25,6 +25,11 @@ Based on these readings, the system can automatically control household applianc
 
 All devices can also be remotely controlled through a Flutter mobile application.
 
+## System architecture
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bdb43ffe-9331-48eb-9f13-ec91ae260b07" />
+
+
 ## Renewable Energy Integration
 
 To improve sustainability and reduce electricity consumption, the system integrates photovoltaic (PV) solar panels with lithium ion battery bank for storage.
