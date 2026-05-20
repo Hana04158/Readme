@@ -1,20 +1,18 @@
 # 🏠 IoT-Based Smart Home System with Photovoltaic Integration and Battery Storage
-[![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)](https://www.espressif.com/en/products/socs/esp32)
-
-[![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-02569B)](https://flutter.dev)
-
-[![Firebase](https://img.shields.io/badge/Firebase-Database-orange)](https://firebase.google.com)
-
-[![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-purple)](https://www.hivemq.com/mqtt/)
-
-[![Solar](https://img.shields.io/badge/Solar-Powered-green)](https://en.wikipedia.org/wiki/Solar_energy)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-02569B)
+![Firebase](https://img.shields.io/badge/Firebase-Database-orange)
+![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-purple)
+![Solar](https://img.shields.io/badge/Solar-Powered-green)
 
 <p align="center">
-  <img src="<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/cdc88c2e-5277-47d5-9b25-f4214de6eb51" />
-" width="850"/>
+  <img src="https://github.com/user-attachments/assets/cdc88c2e-5277-47d5-9b25-f4214de6eb51" width="500"/>
+</p>
+<p align="center">
+Smart Automation • Renewable Energy • Real-Time Monitoring
 </p>
 
-##💡 The Idea
+## 💡 The Idea
 
 Modern homes consume large amounts of energy every day, often without efficient monitoring or intelligent control. Many appliances continue operating unnecessarily, renewable energy systems are not fully optimized, and traditional smart home solutions frequently rely on fragmented architectures with limited automation capabilities.
 
